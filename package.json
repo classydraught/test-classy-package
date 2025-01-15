@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "this is my test packages",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/classydraught/test-classy-package.git"
+  },
   "scripts": {
     "test": "npm run test"
   },
-  "author": "",
+  "author": "classydraught",
   "license": "ISC"
 }
