@@ -1,0 +1,11 @@
+{
+  "name": "test-classy-package",
+  "version": "1.0.0",
+  "description": "this is my test packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
